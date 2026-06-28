@@ -144,8 +144,4 @@ Re-run the script after changes.
 
 ---
 
-## Citation (example)
 
-> CovInsight: COVID-19 Analytics Dashboard (Python/Matplotlib, SQL Server).  
-> Data: Our World in Data — COVID-19 dataset.  
-> Author: Dr. Saleem (Industrial Engineering & Data Analytics).
